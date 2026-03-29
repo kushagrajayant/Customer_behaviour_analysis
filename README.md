@@ -4,7 +4,7 @@ Customer behaviour intelligence Project : leveraging Python, SQL, Power BI to dr
 
 ## Overview
 
-This project demonstrates an end-to-end data analytics workflow, starting from raw data to actionable business insights. The process includes loading data using Python, performing exploratory data analysis (EDA), cleaning and transforming the dataset, executing SQL queries across multiple databases, building an interactive Power BI dashboard, and presenting findings through a report and Gamma presentation.
+This project demonstrates an end-to-end data analytics workflow, starting from raw data to actionable business insights. The process includes loading data using Python, performing exploratory data analysis (EDA), cleaning and transforming the dataset, executing SQL queries across multiple databases, building an interactive Power BI dashboard, and presenting findings through a report and presenation.
 
 The goal is to showcase practical data analytics skills and communicate insights in a recruiter-friendly format.
 

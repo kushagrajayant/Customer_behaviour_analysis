@@ -52,8 +52,6 @@ The goal is to showcase practical data analytics skills and communicate insights
    * Executed queries using:
 
      * PostgreSQL
-     * MySQL
-     * SQL Server
    * Performed joins, aggregations, filtering, ranking
 
 5. **Dashboard Development (Power BI)**

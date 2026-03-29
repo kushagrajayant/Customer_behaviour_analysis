@@ -18,10 +18,10 @@ Key Fields: customer_id, purchase_amount, age, review_rating, frequency_of_purch
 
 ## Tools & Technologies
 
-* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* Python (Pandas)
 * SQL (PostgreSQL)
 * Power BI
-* Jupyter Notebook / VS Code
+* Jupyter Notebook 
 * Git & GitHub
 
 ## Project Steps
@@ -51,7 +51,7 @@ Key Fields: customer_id, purchase_amount, age, review_rating, frequency_of_purch
    * Loaded cleaned data into databases
    * Executed queries using:
 
-     * PostgreSQL
+   * PostgreSQL
    * Performed joins, aggregations, filtering, ranking
 
 5. **Dashboard Development (Power BI)**
@@ -128,7 +128,7 @@ pip install -r requirements.txt
 
 ## Author
 
-Your Name
+Kushagra Jayant
 
 ## Purpose
 

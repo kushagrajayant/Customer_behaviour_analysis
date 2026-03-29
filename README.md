@@ -7,13 +7,14 @@ Customer behaviour intelligence Project : leveraging Python, SQL, Power BI to dr
 This project demonstrates an end-to-end data analytics workflow, starting from raw data to actionable business insights. The process includes loading data using Python, performing exploratory data analysis (EDA), cleaning and transforming the dataset, executing SQL queries across multiple databases, building an interactive Power BI dashboard, and presenting findings through a report and presenation.
 
 The goal is to showcase practical data analytics skills and communicate insights in a recruiter-friendly format.
+Source: Add dataset source
 
 ## Dataset
+Format: CSV 
+Description: A dataset capturing customer purchasing patterns, including demographics, product preferences, and transaction details.
+It is used to analyze shopping trends, understand customer behavior, and identify factors influencing buying decisions
+Key Fields: customer_id, purchase_amount, age, review_rating, frequency_of_purchases, discount_applied,shipping, gender
 
-* Source: Add dataset source
-* Format: CSV / Excel / Database
-* Description: Brief description of dataset
-* Key Fields: List important columns
 
 ## Tools & Technologies
 
@@ -21,7 +22,6 @@ The goal is to showcase practical data analytics skills and communicate insights
 * SQL (PostgreSQL)
 * Power BI
 * Jupyter Notebook / VS Code
-* Gamma (PPT creation)
 * Git & GitHub
 
 ## Project Steps
@@ -101,22 +101,16 @@ git clone <repository-url>
 pip install -r requirements.txt
 ```
 
-3. Open Jupyter Notebook and run files in order:
 
-* data_loading.ipynb
-* eda.ipynb
-* data_cleaning.ipynb
-* sql_analysis.ipynb
-
-4. Open Power BI Dashboard
+3. Open Power BI Dashboard
 
 * Launch the `.pbix` file using Power BI Desktop
 
-5. View Report
+4. View Report
 
 * Open report file in the report folder
 
-6. View Presentation
+5. View Presentation
 
 * Open ppt file
 

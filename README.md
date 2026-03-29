@@ -18,7 +18,7 @@ The goal is to showcase practical data analytics skills and communicate insights
 ## Tools & Technologies
 
 * Python (Pandas, NumPy, Matplotlib, Seaborn)
-* SQL (PostgreSQL, MySQL, SQL Server)
+* SQL (PostgreSQL)
 * Power BI
 * Jupyter Notebook / VS Code
 * Gamma (PPT creation)
@@ -66,12 +66,6 @@ The goal is to showcase practical data analytics skills and communicate insights
    * Documented methodology
    * Summarized key findings
    * Provided recommendations
-
-7. **Presentation (Gamma)**
-
-   * Created PPT using Gamma
-   * Highlighted insights and visuals
-   * Prepared business recommendations
 
 ## Dashboard
 
@@ -124,7 +118,7 @@ pip install -r requirements.txt
 
 6. View Presentation
 
-* Open Gamma PPT link or file
+* Open ppt file
 
 ## Project Structure
 

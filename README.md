@@ -14,6 +14,7 @@ Format: CSV
 
 Description: A dataset capturing customer purchasing patterns, including demographics, product preferences, and transaction details.
 It is used to analyze shopping trends, understand customer behavior, and identify factors influencing buying decisions
+
 Key Fields: customer_id, purchase_amount, age, review_rating, frequency_of_purchases, discount_applied,shipping, gender
 
 

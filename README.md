@@ -46,7 +46,7 @@ Key Fields: customer_id, purchase_amount, age, review_rating, frequency_of_purch
    * Handled missing values
    * Removed duplicates
    * Standardized formats
-   * Created new features (if required)
+
 
 4. **SQL Analysis**
 
@@ -79,7 +79,6 @@ The Power BI dashboard includes:
 * Interactive filters
 * Key insights visualization
 
-(Add dashboard screenshot here)
 
 ## Results
 
@@ -132,6 +131,3 @@ pip install -r requirements.txt
 
 Kushagra Jayant
 
-## Purpose
-
-This project is created for portfolio and recruiter review to demonstrate data analytics skills across Python, SQL, and Power BI.
